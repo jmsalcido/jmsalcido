@@ -1,6 +1,8 @@
-# Hello, I'm José Salcido. 👨‍💻
+# Hello, I'm José Salcido. 🧑🏽‍💻
+> Entrepreneur and Software Engineer.
 
 - 📍  Sonora, Mexico.
+- 🧑🏽‍💻  @ProbablyGenetic
 - 🎓  Software Engineer [@ITSON](https://www.itson.mx).
 - 🎸  Frustrated guitarist and barista ✨.
 - 😋  I have 2 dogs, one is named Picnic and the other one is named Chai 🦮
@@ -26,4 +28,4 @@
 ---
 ### Resume
 
-💬  My [resume](https://jmsalcido.dev).
+💬  My [resume](https://jmsalcido.dev/?utm_source=github&utm_campaign=github-profile).
