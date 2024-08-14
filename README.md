@@ -2,9 +2,9 @@
 > Entrepreneur and Software Engineer.
 
 - 📍  Sonora, Mexico.
-- 🧑🏽‍💻  @ProbablyGenetic
-- 🎓  Software Engineer [@ITSON](https://www.itson.mx).
-- 🎸  Frustrated guitarist and barista ✨.
+- 🧑🏽‍💻  Fullstack Software Engineer @ProbablyGenetic
+- 🎓  Bachelor of Software Engineering (Lic. en Ingenieria en Software) [@ITSON](https://www.itson.mx).
+- 🎸  Frustrated musician and coffee nerd (roaster and barista, I have my own cafe) ✨.
 - 😋  I have 2 dogs, one is named Picnic and the other one is named Chai 🦮
 
 <br />
