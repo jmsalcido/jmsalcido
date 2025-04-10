@@ -29,6 +29,7 @@
 ## Github Stats
 
 ![jmsalcido's Stats](https://github-readme-stats.vercel.app/api?username=jmsalcido&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![jmsalcido's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmsalcido&theme=vue-dark&hide_border=false)
 ![jmsalcido's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsalcido&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
