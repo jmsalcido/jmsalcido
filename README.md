@@ -26,6 +26,14 @@
 <br />
 
 ---
+## Github Stats
+
+![jmsalcido's Stats](https://github-readme-stats.vercel.app/api?username=jmsalcido&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![jmsalcido's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsalcido&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+
+---
 ### Resume
+
 
 💬  My [resume](https://jmsalcido.dev/?utm_source=github&utm_campaign=github-profile).
