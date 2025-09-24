@@ -1,10 +1,10 @@
 # 👋🏽 Hey, I’m José Salcido  
 > Principal Engineer · Entrepreneur · Coffee Roaster  
 
-- 📍 Based in Sonora, Mexico  
-- 🧑🏽‍💻 Engineer @ [Probably Genetic](https://probablygenetic.com)  
-- 🛠 Founder @ [Culto al Perro Café](https://www.instagram.com/cultoalperrocafe) | Business Developer @ Taller Lobo y Osa  
-- 🎓 B.S. in Software Engineering – [ITSON](https://www.itson.mx)  
+- 📍 Based in Sonora, Mexico
+- 🛠 Founder @ [Culto al Perro Café](https://perro.cafe/?utm_source=jmsalcidogithub) | Business Developer @ [Taller Lobo y Osa](https://loboyosa.com/?utm_source=jmsalcidogithub)
+- 🧑🏽‍💻 Engineer @ [Probably Genetic](https://probablygenetic.com/?utm_source=jmsalcidogithub)
+- 🎓 B.S. in Software Engineering – [ITSON](https://www.itson.mx/?utm_source=jmsalcidogithub)  
 - 🐶 Dog dad to Picnic & Chai  
 
 ---
