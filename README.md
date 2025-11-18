@@ -3,7 +3,6 @@
 
 - 📍 Based in Sonora, Mexico
 - 🛠 Founder @ [Culto al Perro Café](https://perro.cafe/?utm_source=jmsalcidogithub) | Business Developer @ [Taller Lobo y Osa](https://loboyosa.com/?utm_source=jmsalcidogithub)
-- 🧑🏽‍💻 Engineer @ [Probably Genetic](https://probablygenetic.com/?utm_source=jmsalcidogithub)
 - 🎓 B.S. in Software Engineering – [ITSON](https://www.itson.mx/?utm_source=jmsalcidogithub)  
 - 🐶 Dog dad to Picnic & Chai  
 
@@ -11,9 +10,16 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a hands-on Principal Engineer with a product mindset, passionate about building things that matter. I’ve led engineering efforts at startups, contributed to early-stage architectures, and helped products scale from MVPs to production-ready platforms.  
+I’m a hands-on Principal Engineer who likes shipping, not over-architecting. I’ve helped early-stage startups go from “we have an idea” to “this is a real platform with customers, infra, and processes.”
 
-Outside of tech, I roast coffee, run a specialty café, and help small businesses grow with design and strategy. I thrive at the intersection of code, craft, and community.  
+My work usually sits at the intersection of:
+
+- backend architecture (Django/FastAPI, Python-heavy)
+- infrastructure & automation (AWS, Terraform, S3/SQS/ECS, Temporal, Celery)
+- product thinking and zero-BS problem solving
+- building teams, systems, and things that actually get used
+
+Outside tech, I roast coffee, run a café, and help small businesses sharpen their brand and operations. I enjoy jumping between code, craft, design, and strategy.
 
 ---
 
@@ -59,7 +65,7 @@ Poetry · Linear · Notion · Slack · Git · GitHub
 - I’m a frustrated musician 🎸  
 - I roast my own coffee and run a small café in northern Mexico  
 - I believe in building fast, shipping often, and learning out loud  
-- Big fan of stoicism, jazz, and long walks with my dogs 🐕  
+- Big fan of stoicism, jazz, and long walks with my dogs 🐕
 
 ---
 
@@ -67,6 +73,6 @@ Poetry · Linear · Notion · Slack · Git · GitHub
 
 - Twitter: [@jmsalcido](https://twitter.com/jmsalcido)  
 - LinkedIn: [José Salcido](https://linkedin.com/in/jmsalcido)  
-- Personal site: [jmsalcido.dev](https://jmsalcido.dev)
+- Personal site: [otfusion.org](https://otfusion.org)
 
 ---
