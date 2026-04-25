@@ -1,78 +1,90 @@
-# 👋🏽 Hey, I’m José Salcido  
-> Principal Engineer · Entrepreneur · Coffee Roaster  
+# 👋🏽 Hey, I’m José Salcido
 
-- 📍 Based in Sonora, Mexico
-- 🛠 Founder @ [Culto al Perro Café](https://perro.cafe/?utm_source=jmsalcidogithub) | Business Developer @ [Taller Lobo y Osa](https://loboyosa.com/?utm_source=jmsalcidogithub)
-- 🎓 B.S. in Software Engineering – [ITSON](https://www.itson.mx/?utm_source=jmsalcidogithub)  
-- 🐶 Dog dad to Picnic & Chai  
+> I build systems that actually run.
+> Coffee · Code · Chaos
 
----
-
-## 👨🏽‍💻 About Me
-
-I’m a hands-on Principal Engineer who likes shipping, not over-architecting. I’ve helped early-stage startups go from “we have an idea” to “this is a real platform with customers, infra, and processes.”
-
-My work usually sits at the intersection of:
-
-- backend architecture (Django/FastAPI, Python-heavy)
-- infrastructure & automation (AWS, Terraform, S3/SQS/ECS, Temporal, Celery)
-- product thinking and zero-BS problem solving
-- building teams, systems, and things that actually get used
-
-Outside tech, I roast coffee, run a café, and help small businesses sharpen their brand and operations. I enjoy jumping between code, craft, design, and strategy.
+* 📍 Sonora, Mexico
+* ☕ Founder @ [Culto al Perro Café](https://perro.cafe/?utm_source=jmsalcidogithub)
+* 🛠 Building products, infra, and businesses
+* 🐶 Dog dad to Picnic & Chai
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 👨🏽‍💻 What I Do
 
-<div>
-  <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-  <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</div>
+I’m a hands-on engineer who prefers **shipping over talking about shipping**.
 
-<br/><br/><br/>
+I work with early-stage teams to turn:
 
-**DevOps & Infra**  
-Docker · AWS (Fargate, ECS, S3, DynamoDB) · Terraform · GitHub Actions · Retool · Cloudflare  
+> “we have an idea” → into → “this is live, stable, and making money”
 
-**Tools I Love**  
-Poetry · Linear · Notion · Slack · Git · GitHub  
+Most of my work sits around:
+
+* backend systems (Python · Django · APIs that don’t break)
+* infrastructure (AWS, Docker, automation)
+* product + business logic (what actually matters)
+* building internal tools that people *use*, not ignore
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ How I Think
 
-![jmsalcido's Stats](https://github-readme-stats.vercel.app/api?username=jmsalcido&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  
-![jmsalcido's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmsalcido&theme=vue-dark&hide_border=false)
-![jmsalcido's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsalcido&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+* 1 > 0
+* consistency beats hype
+* simple systems scale better than clever ones
+* if it doesn’t ship, it doesn’t matter
+* revenue > vanity metrics
+
+---
+
+## ☕ Culto al Perro Café
+
+I also run a coffee roasting business.
+
+Not as a hobby — as a system.
+
+We focus on:
+
+* consistent roasting, lote tras lote
+* B2B supply (restaurants, offices, etc.)
+* recurring revenue over one-off sales
+
+---
+
+## 🛠️ Stack (short version)
+
+Python · Django · FastAPI
+AWS · Docker · Terraform
+React · TypeScript
+
+(+ whatever gets the job done)
+
+---
+
+## 📊 GitHub
+
+![jmsalcido's Stats](https://github-readme-stats.vercel.app/api?username=jmsalcido\&theme=vue-dark\&show_icons=true\&hide_border=false\&count_private=true)
 
 ---
 
 ## 📄 Resume
 
-💼 [Check out my resume](https://jmsalcido.dev/?utm_source=github&utm_campaign=github-profile)
+💼 [https://jmsalcido.dev/](https://jmsalcido.dev/)
 
 ---
 
-## ☕️ Random Facts
+## 🧩 Other Things
 
-- I’m a frustrated musician 🎸  
-- I roast my own coffee and run a small café in northern Mexico  
-- I believe in building fast, shipping often, and learning out loud  
-- Big fan of stoicism, jazz, and long walks with my dogs 🐕
+* I like building systems more than apps
+* I jump between code, business, and operations daily
+* Big fan of stoicism, jazz, and figuring things out the hard way
 
 ---
 
-## Let's connect
+## 🤝 Contact
 
-- Twitter: [@jmsalcido](https://twitter.com/jmsalcido)  
-- LinkedIn: [José Salcido](https://linkedin.com/in/jmsalcido)  
-- Personal site: [otfusion.org](https://otfusion.org)
+* Twitter: [https://twitter.com/jmsalcido](https://twitter.com/jmsalcido)
+* LinkedIn: [https://linkedin.com/in/jmsalcido](https://linkedin.com/in/jmsalcido)
+* Blog: [https://otfusion.org](https://otfusion.org)
 
 ---
